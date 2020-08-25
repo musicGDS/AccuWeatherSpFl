@@ -1,0 +1,13 @@
+﻿{
+    "bindingCulture":
+    {
+        "language" :"en-us"
+    },
+  "language": {
+    "feature": "en-us"
+  },
+  "config": {
+    "url": "http://dataservice.accuweather.com",
+    "key": "AdeGoEqdDkyxoT7gKAuRkAjIO4PG7aK5"
+  }
+}
